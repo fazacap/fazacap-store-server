@@ -1,0 +1,34 @@
+{
+  "dataProduk": [
+    {
+      "link": "pcie-2-ch-hdmi-video-capture",
+      "nama": "PCie 2 ch HDMI Video Capture",
+      "harga": 920000,
+      "stok": 3,
+      "berat": 0.3,
+      "terjual": 0,
+      "deskripsi": "Produk hdmi yang bisa di gunakan untuk streaming",
+      "gambar": "https://server.store.fazacap.com/uploads/products/pcie-hdmi-2-ch-video-capture-card.png"
+    },
+    {
+      "link": "usb-2-ch-ahd-video-capture",
+      "nama": "USB 2 ch AHD Video Capture",
+      "harga": 830000,
+      "stok": 2,
+      "berat": 0.3,
+      "terjual": 0,
+      "deskripsi": "Produk usb ahd yang bisa di gunakan untuk streaming",
+      "gambar": "https://server.store.fazacap.com/uploads/products/usb-ahd-2-ch-video-capture-card.jpg"
+    },
+    {
+      "link": "pcie-2-ch-ahd-video-capture",
+      "nama": "Pcie 2 ch AHD Video Capture",
+      "harga": 740000,
+      "stok": 1,
+      "berat": 0.3,
+      "terjual": 0,
+      "deskripsi": "Produk pcie ahd yang bisa di gunakan untuk streaming",
+      "gambar": "https://server.store.fazacap.com/uploads/products/pcie-ahd-2-ch-video-capture-card.jpg"
+    }
+  ]
+}
