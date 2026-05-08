@@ -16,6 +16,7 @@ fastify.setNotFoundHandler((request, reply) => {
   reply.status(200).send('');
 });
 
+fastify.register(require('./routes/banners'));
 fastify.register(require('./routes/orders'));
 fastify.register(require('./routes/payment'));
 fastify.register(require('./routes/products'));
